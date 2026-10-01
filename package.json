@@ -1,0 +1,12 @@
+{
+  "name": "spooky-puzzle-scorecard",
+  "version": "1.0.0",
+  "description": "Haunted 1v1 puzzle scorecard app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
